@@ -35,6 +35,7 @@ Furthermore, I had a closer look at food supply chain, which consists of land us
 
 
 [# Project 5: Children Book Recommendation System, Natural Language Processing](somayehY/Children-Book-Recommendation-system (github.com))
+
 When, it comes to reading books, given the limited time a person has, it is crucial to invest on the right books. When the end user of a book is a toddler or a kid, choosing the right book with the right message to help his/her development becomes even more important. More importantly, sometimes the content of a book may convey a wrong message. In this project, I built a book recommendation system for children. The data used is from UCSD Book Graph (google.com). The data is scraped from Googlereads during 2017. It contains 1) meta-data of more than 120,000 children’s books and 2) more than 800,000 book reviews. 
 What is eye opening in this book is the amount of hidden negative message, there may exists in some very popular children book.
 
