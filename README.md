@@ -1,4 +1,4 @@
-[# Project 1, Predictive model: Predict if a loan default or not?](somayehY/LoanDefaultPrediction (github.com))
+[# Project 1: Predict if a loan default or not?](somayehY/LoanDefaultPrediction (github.com))
 
 
 In this proect I built a model to predict default of a loan based on the data the applicant provided during application. This way the creditor can gauge how risky the loan is and they can make a better decision. 
@@ -27,7 +27,7 @@ Data is of users who used a taxi service in the last six months. A user is consi
 2.	Build a predictive model to help Ultimate determine whether or not a user will be active
 3.	Briefly discuss how Ultimate might leverage the insights gained from the model to
 
-[# Project 4, Story telling: Environmental impacts of food]((somayehY/Environmental-Impact--of-Food (github.com))
+[# Project 4: Environmental impacts of food]((somayehY/Environmental-Impact--of-Food (github.com))
 
 
 Agriculture is the most important contributor to the environmental changes and as the world’s population has increased, the demand for food, energy and water has increased. In this project, I looked at the environmental effects of several food items and effects of our diet on environment is studied. 3 diets are compared: Regular, Vegan and Vegie. For each diet, 3 meal plans are created and their environmental impacts are compared.
