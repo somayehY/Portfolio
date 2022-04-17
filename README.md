@@ -7,7 +7,9 @@ There were several challenges to make the model: there were missing data as well
 A simple version of the model is also deployed at http://192.168.0.15:8501
 
 
-[# Project 2: Credit Default Prediction](CreditDefaultPrediction/CreditDefaultPrediction_DataWrangling.ipynb at main · somayehY/CreditDefaultPrediction (github.com))
+[# Project 2: Credit Default Prediction](https://github.com/somayehY/CreditDefaultPrediction)
+
+
 In this project, I created a model to predict if a credit card holder pays back his/her balance or they fail to do so.
 About 22% of records were default, which means data was imbalanced and I used SMOTE to address the issue.
 Gradient Boosting gives the best result and reached at 94% area under the curve.
@@ -18,12 +20,15 @@ If a credit holder fails to pay their last payment, chances are that they also w
 
 
 [# Project 3: Predict if a user of a taxi service will churn](https://github.com/somayehY/Time_Series_Ultimate_Challenge)
+
+
 Data is of users who used a taxi service in the last six months. A user is considered a retained user if the had a trip within the previous 30 days. We are asked to
 1.	Perform cleaning, exploratory analysis and visualize the data
 2.	Build a predictive model to help Ultimate determine whether or not a user will be active
 3.	Briefly discuss how Ultimate might leverage the insights gained from the model to
 
 [# Project 4, Story telling: Environmental impacts of food]((somayehY/Environmental-Impact--of-Food (github.com))
+
 
 Agriculture is the most important contributor to the environmental changes and as the world’s population has increased, the demand for food, energy and water has increased. In this project, I looked at the environmental effects of several food items and effects of our diet on environment is studied. 3 diets are compared: Regular, Vegan and Vegie. For each diet, 3 meal plans are created and their environmental impacts are compared.
 Four metrics are considered to make comparison between food items. These metrics are:
