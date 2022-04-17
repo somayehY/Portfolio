@@ -17,7 +17,7 @@ PAY_1, LIMIT_BAL and AGE are the most effective parameters.
 If a credit holder fails to pay their last payment, chances are that they also will fail to pay their next one
 
 
-[# Project 3: Predict if a user of a taxi service will churn](Time_Series_Ultimate_Challenge/Ultimate_challenge.ipynb)
+[# Project 3: Predict if a user of a taxi service will churn](https://github.com/somayehY/Time_Series_Ultimate_Challenge)
 Data is of users who used a taxi service in the last six months. A user is considered a retained user if the had a trip within the previous 30 days. We are asked to
 1.	Perform cleaning, exploratory analysis and visualize the data
 2.	Build a predictive model to help Ultimate determine whether or not a user will be active
