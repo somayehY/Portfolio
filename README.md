@@ -1,4 +1,4 @@
-[Project 1: Predict if a loan default or not?](somayehY/LoanDefaultPrediction (github.com))
+[Project 1: Predict if a loan defaults or not?](somayehY/LoanDefaultPrediction (github.com))
 
 
 In this proect I built a model to predict default of a loan based on the data the applicant provided during application. This way the creditor can gauge how risky the loan is and they can make a better decision. 
