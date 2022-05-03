@@ -1,6 +1,4 @@
 # __Somayeh Youssefi Portfolio__
-
-
 [Project 1: Predict if a loan defaults or not?](https://github.com/somayehY/LoanDefaultPrediction)
 
 
