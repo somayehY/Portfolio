@@ -29,7 +29,7 @@ Data is of users who used a taxi service in the last six months. A user is consi
 2.	Build a predictive model to help Ultimate determine whether or not a user will be active
 3.	Briefly discuss how Ultimate might leverage the insights gained from the model to
 
-[Project 4: Environmental impacts of food](somayehY/Environmental-Impact--of-Food (github.com))
+[Project 4: Environmental impacts of food](https://github.com/somayehY/Environmental-Impact--of-Food)
 
 
 Agriculture is the most important contributor to the environmental changes and as the world’s population has increased, the demand for food, energy and water has increased. In this project, I looked at the environmental effects of several food items and effects of our diet on environment is studied. 3 diets are compared: Regular, Vegan and Vegie. For each diet, 3 meal plans are created and their environmental impacts are compared.
@@ -41,7 +41,7 @@ eutrophying emissions (grams of PO4-equivalents): Eutrophying emissions represen
 Furthermore, I had a closer look at food supply chain, which consists of land usage, farm, animal feed, processing transport and retail and packaging to find out the most influentioal contributor to environmental contamination.
 
 
-[Project 5: Children Book Recommendation System, Natural Language Processing](somayehY/Children-Book-Recommendation-system (github.com))
+[Project 5: Children Book Recommendation System, Natural Language Processing](https://github.com/somayehY/Children-Book-Recommendation-system)
 
 When, it comes to reading books, given the limited time a person has, it is crucial to invest on the right books. When the end user of a book is a toddler or a kid, choosing the right book with the right message to help his/her development becomes even more important. More importantly, sometimes the content of a book may convey a wrong message. In this project, I built a book recommendation system for children. The data used is from UCSD Book Graph (google.com). The data is scraped from Googlereads during 2017. It contains 1) meta-data of more than 120,000 children’s books and 2) more than 800,000 book reviews. 
 What is eye opening in this book is the amount of hidden negative message, there may exists in some very popular children book.
